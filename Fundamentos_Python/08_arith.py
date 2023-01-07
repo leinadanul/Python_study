@@ -1,0 +1,10 @@
+print(10 + 10)
+print(10 - 10)
+print(10 * 10)
+print(10 / 10)
+print(10 % 3)
+print(10 // 10)
+
+
+print("hello" + " " +"world")
+print("hello " * 3)
